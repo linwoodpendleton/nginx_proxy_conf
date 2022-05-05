@@ -55,3 +55,9 @@ https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed(不定�
 解决套CF 后还是能获取客户端IP
 
 解决因正则导致的500错误
+
+
+5.5 22:30更新 
+
+修复git clone 无法使用 
+修复一些已知问题
