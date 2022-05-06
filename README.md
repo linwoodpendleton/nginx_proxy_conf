@@ -27,7 +27,7 @@ http://127.0.0.1/HostLocMJJ/https://hostloc.com
 
 https://www.php8.ltd/HostLocMJJ/http://news.baidu.com/(不定时开放）
 
-https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed(不定时开放）
+https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed            (不定时开放）
 
 
 5.4 10:32更新
