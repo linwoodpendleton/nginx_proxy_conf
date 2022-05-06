@@ -61,3 +61,8 @@ https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed(不定�
 
 修复git clone 无法使用 
 修复一些已知问题
+
+5.6 21:46更新
+
+修复目标站开启强制gzip 无法替换文本问题   set $unopengzip 0; #对于强制开启压缩的网站开启替换 0 关, 1 开 影响效率
+增加一个伪装站。 修改www.qq.com即可
