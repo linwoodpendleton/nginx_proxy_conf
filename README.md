@@ -69,3 +69,12 @@ https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed        
 
 
 增加一个伪装站。 修改www.qq.com即可
+
+
+5.6 23:16更新
+
+修复无法获取来源错误
+二次反代改为127.0.0.1了
+
+5.7更新
+支持googledrive下载 需要自行导入cookie
