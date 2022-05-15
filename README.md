@@ -78,3 +78,5 @@ https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed        
 
 5.7更新
 支持googledrive下载 需要自行导入cookie
+
+5.15 增加白名单功能
