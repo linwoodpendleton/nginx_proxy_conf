@@ -30,6 +30,9 @@ https://www.php8.ltd/HostLocMJJ/http://news.baidu.com/(不定时开放）
 https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed            (不定时开放）
 
 
+2023.5.27gju
+支持特殊端口
+
 5.4 10:32更新
 
 支持中文维基
