@@ -1,6 +1,6 @@
 据说光下载不回帖的，[color=Red][size=7]一辈子不举[/size][/color]
 
-[size=5][font=微软雅黑][b][color=SeaGreen]github项目链接：[/color]https://github.com/linwoodpendleton/nginx_proxy_conf[/b][/font][/size]
+github项目链接：https://github.com/linwoodpendleton/nginx_proxy_conf
 之前有人分享过php的，但效率有点低。
 这个是纯NGINX的任意反向代理
 使用访问地址示例：
@@ -11,9 +11,14 @@ http://127.0.0.1/HostLocMJJ/https://hostloc.com
 
 
 
-[size=5][color=Lime]自定义路径 替换HostLocMJJ 为你自己的路径即可 有两处[/color][/size]
+自定义路径 替换HostLocMJJ 为你自己的路径即可 有两处
 
 
+2024/09/13 更新:
+
+
+
+www.php8.ltd.conf 支持docker反代和登陆.
 
 
 
