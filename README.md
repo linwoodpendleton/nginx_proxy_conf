@@ -14,6 +14,53 @@ http://127.0.0.1/HostLocMJJ/https://hostloc.com
 自定义路径 替换HostLocMJJ 为你自己的路径即可 有两处
 
 
+
+2024/09/28 更新
+ 增加支持Linux 源镜像功能 使用方法如下
+
+[C6.10-base]
+name=CentOS-6.10 - Base
+baseurl=http://www.php8.ltd/HostLocMJJ/https://vault.centos.org/6.10/os/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-updates]
+name=CentOS-6.10 - Updates
+baseurl=http://www.php8.ltd/HostLocMJJ/https://vault.centos.org/6.10/updates/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-extras]
+name=CentOS-6.10 - Extras
+baseurl=http://www.php8.ltd/HostLocMJJ/https://vault.centos.org/6.10/extras/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-contrib]
+name=CentOS-6.10 - Contrib
+baseurl=http://www.php8.ltd/HostLocMJJ/https://vault.centos.org/6.10/contrib/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=0
+metadata_expire=never
+
+[C6.10-centosplus]
+name=CentOS-6.10 - CentOSPlus
+baseurl=http://www.php8.ltd/HostLocMJJ/https://vault.centos.org/6.10/centosplus/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=0
+metadata_expire=never
+
+
+
+
 2024/09/13 更新:
 
 
